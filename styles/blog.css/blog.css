@@ -4,4 +4,13 @@ h3{
 .root{
     color: red;
     text-align: center;
+    margin:10px 200px 30px 40px; 
+    /* padding-left: 500px; */
+}
+.cen{
+    padding-left: 500px;
+}
+div{
+    border: 20px solid red;
+    border-radius: 20px;
 }
